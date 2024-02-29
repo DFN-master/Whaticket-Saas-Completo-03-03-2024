@@ -15,8 +15,5 @@ Se você tiver dúvidas ou precisar de ajuda com a configuração, entre em cont
 
 <h1>Demonstração</h1>
 
-<video width="320" height="240" controls>
-  <source src="demonstração/video1.mp4" type="video/mp4">
-  Seu navegador não suporta a tag de vídeo.
-</video>
+[![Vídeo 1](demonstração/video1.mp4)]
 
