@@ -17,3 +17,5 @@ Se você tiver dúvidas ou precisar de ajuda com a configuração, entre em cont
 
 ![GIF](demonstração/video2.gif)
 
+![GIF](demonstração/video1.gif)
+
