@@ -15,5 +15,5 @@ Se você tiver dúvidas ou precisar de ajuda com a configuração, entre em cont
 
 <h1>Demonstração</h1>
 
-[![Vídeo 1](demonstração/video1.mp4)]
+![GIF](demonstração/video2.gif)
 
