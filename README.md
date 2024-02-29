@@ -8,11 +8,3 @@ Se você tiver dúvidas ou precisar de ajuda com a configuração, entre em cont
 
 Whatsapp Suporte: +55 (51) 99705-8551
 
-
-Licença
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-Autor
-Andrew
-
-Feito com ❤️ por Andrew
