@@ -1,0 +1,18 @@
+name: Notificar sobre Clone
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Verificar por git clone
+        run: |
+          if [[ $(git log --pretty=%an -n 1 ${{ github.sha }}) == "GitHub Actions" ]]; then
+            echo "Projeto baixado!"
+            # Adicione a lógica de notificação desejada aqui (pode ser um envio de mensagem para Slack, Telegram, e-mail, etc.)
+          fi
